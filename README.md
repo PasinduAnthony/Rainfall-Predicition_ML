@@ -6,3 +6,5 @@ after feeding 11 years of rainfall data of a specific place. This python based p
 ![](https://raw.githubusercontent.com/PasinduAnthony/images/master/readmeImgs/Rainfall.jpg)
 <br>**blue colour = True Values**
 <br>**orange colour = Predicted Values**
+<br>**x axsis = Days**
+<br>**y axsis = Rainfall**
